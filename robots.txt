@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /servers.json
+
+Sitemap: https://aman-md46.vercel.app/sitemap.xml
