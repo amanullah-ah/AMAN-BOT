@@ -1,7 +1,7 @@
 [
-  {"id": "1", "name": "Server 01", "url": "https://aman-mini-bot-production-591a0715.up.railway.app/"},
-  {"id": "2", "name": "Server 02", "url": "https://aman-mini-bot-production-591a0715.up.railway.app/"},
-  {"id": "3", "name": "Server 03", "url": "https://aman-mini-bot-production-591a0715.up.railway.app/"},
-  {"id": "4", "name": "Server 04", "url": "https://aman-mini-bot-production-591a0715.up.railway.app/"},
-  {"id": "5", "name": "Server 05", "url": "https://aman-mini-bot-production-591a0715.up.railway.app/"}
+  {"id": "1", "name": "Server 01", "url": "https://aman-mini-bot-production-20fdef31.up.railway.app/"},
+  {"id": "2", "name": "Server 02", "url": "https://aman-mini-bot-production-20fdef31.up.railway.app/"},
+  {"id": "3", "name": "Server 03", "url": "https://aman-mini-bot-production-20fdef31.up.railway.app/"},
+  {"id": "4", "name": "Server 04", "url": "https://aman-mini-bot-production-20fdef31.up.railway.app/"},
+   {"id": "5", "name": "Server 05", "url": "https://aman-mini-bot-production-20fdef31.up.railway.app/"}
 ]
