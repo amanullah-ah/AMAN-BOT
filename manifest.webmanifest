@@ -1,0 +1,32 @@
+{
+  "id": "/",
+  "name": "AMAN-MD Pairing Portal",
+  "short_name": "AMAN-MD",
+  "description": "AMAN-MD WhatsApp Bot: server chunein aur pair code se apna WhatsApp connect karein.",
+  "start_url": "/?source=pwa",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f0f10",
+  "theme_color": "#0f0f10",
+  "lang": "en",
+  "categories": [
+    "utilities",
+    "social"
+  ],
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/wjbSpFRp/aman-bot-favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://i.postimg.cc/wjbSpFRp/aman-bot-favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
