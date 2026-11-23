@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://aman-mini-bot.vercel.app/sitemap.xml
+Sitemap: https://aman-md-bot.vercel.app/sitemap.xml
